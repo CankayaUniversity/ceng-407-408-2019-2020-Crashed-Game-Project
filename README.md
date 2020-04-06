@@ -3,6 +3,8 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 
 ### Current Versions;
 #### [Crashed Beta v0.1](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Crashed-Game-Project/tree/crashed-beta-v0.1)
+#### To Play Beta Version (Windows 7 and Above) -> [Download Game](https://drive.google.com/open?id=1CvJZsg_lb7iLhc8i3A-Swft5cFjbzb3F)
+#### All Source Files -> [Download Files](https://drive.google.com/open?id=109WI9LEOVBeJP1_ShDlnBdMYXqhDwRzK)
 #### Crashed Beta v0.2 | Hold on Tight! :) Coming Soon...
 
 ![g](https://user-images.githubusercontent.com/36234545/72346671-7bc3db80-36e7-11ea-8850-61617f452206.png)
