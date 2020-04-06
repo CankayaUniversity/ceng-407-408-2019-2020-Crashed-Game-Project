@@ -1,5 +1,5 @@
 # Crashed™ Game Project
-Crashed™ is a single and multiplayer, car combat (vehicular combat) game developed by Genesis Studios™. Crashed™ is available on the PC platforms.
+Crashed™ is a single and multiplayer, car combat (vehicular combat) game developed by Genesis Studios™. Crashed™ is available on the PC platform.
 
 ![g](https://user-images.githubusercontent.com/36234545/72346671-7bc3db80-36e7-11ea-8850-61617f452206.png)
 
