@@ -2,10 +2,29 @@
 Crashed™ is a single and multiplayer, car combat (vehicular combat) game developed by Genesis Studios™. Crashed™ is available on the PC platform.
 
 ### Current Versions;
-#### [Crashed Beta v0.1](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Crashed-Game-Project/tree/crashed-beta-v0.1)
-#### To Play Beta Version (Windows 7 and Above) -> [Download Game](https://drive.google.com/open?id=1CvJZsg_lb7iLhc8i3A-Swft5cFjbzb3F)
-#### All Source Files -> [Download Files](https://drive.google.com/open?id=109WI9LEOVBeJP1_ShDlnBdMYXqhDwRzK)
-#### Crashed Beta v0.2 | Hold on Tight! :) Coming Soon...
+
+### Crashed™ Beta v0.1
+### Crashed™ Beta v0.2 | Hold on Tight! :) Coming Soon...
+
+### PLAY Beta Version (Windows 7 and Above) -> [Download Game](https://drive.google.com/open?id=1CvJZsg_lb7iLhc8i3A-Swft5cFjbzb3F)
+### DOWNLOAD All Source Files -> [Download Files](https://drive.google.com/open?id=109WI9LEOVBeJP1_ShDlnBdMYXqhDwRzK)
+
+#### Crashed™ Beta Version 0.1 | What's New in this version;
+-> Added Singleplayer Menu<br>
+-> Added Multiplayer Menu<br>
+-> Added Pause/Resume Feature<br>
+-> Added Countdown Timer (3,2,1 GO!)<br>
+-> Added Options<br>
+-> Added Map Select<br>
+-> Added Car and Color Select<br>
+-> Added Multiplayer GameController with Keyboard<br>
+-> Added Very Basic Car Movement Support (Multiplayer/Singleplayer)<br>
+
+### -> Future Work Plan & ToDo
+![Crashed Singleplayer Design](https://user-images.githubusercontent.com/36234545/78605552-6f719980-7864-11ea-8ef0-74b40b635118.png)
+***
+![Crashed Map](https://user-images.githubusercontent.com/36234545/78606250-adbb8880-7865-11ea-98ba-5632e4bb660a.png)
+***
 
 ![g](https://user-images.githubusercontent.com/36234545/72346671-7bc3db80-36e7-11ea-8850-61617f452206.png)
 ***
