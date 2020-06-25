@@ -42,7 +42,7 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 #### Golden Forest Map
 ![map1](https://user-images.githubusercontent.com/56311970/85763165-1c99d680-b71d-11ea-993b-5513340f85f6.png)
 ***
-#### Nitros
+#### Nitros 
 ![4](https://user-images.githubusercontent.com/56311970/85753333-d476b600-b714-11ea-800b-c81d346b4ec6.png)
 ![2020-06-25 14_56_06-Crashed - Game - PC, Mac   Linux Standalone - Unity 2019 2 6f1 Personal_ _DX11_](https://user-images.githubusercontent.com/56311970/85765253-9b434380-b71e-11ea-923e-0bb6a0265640.png)
 ***
