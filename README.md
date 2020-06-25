@@ -1,21 +1,15 @@
 # Crashed™ Game Project
 Crashed™ is a single and multiplayer, car combat (vehicular combat) game developed by Genesis Studios™. Crashed™ is available on the PC platform.
 
-#### Current Versions;
+
 
 #### Play the Game  (Windows 7 and Above) -> [Download Game](https://drive.google.com/file/d/1bDlqTDeDQaHALdJPGu1PyQO0S_3qowAi/view?usp=sharing)
 #### DOWNLOAD All Source Files -> [Download Files](https://drive.google.com/file/d/1bDlqTDeDQaHALdJPGu1PyQO0S_3qowAi/view?usp=sharing)
 
 #### Crashed™ v0.5 Fifth Release | What's New in this version;
--> Added Singleplayer Menu<br>
--> Added Multiplayer Menu<br>
--> Added Pause/Resume Feature<br>
--> Added Countdown Timer (3,2,1 GO!)<br>
--> Added Options<br>
--> Added Map Select<br>
--> Added Car and Color Select<br>
--> Added Multiplayer GameController with Keyboard<br>
--> Added Very Basic Car Movement Support (Multiplayer/Singleplayer)<br>
+-> Added Better Nitro System
+-> Added Nitro Effects
+-> Fixed Nitro Effects Structure (Doubled)
 
 
 
@@ -55,5 +49,5 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 
 
 ![gen](https://user-images.githubusercontent.com/36234545/67634304-16700380-f8cb-11e9-9dd1-dcffb684a561.png)
-
+#### Current Versions;
 **All Rights Reserved. Genesis Studios™ 2019**
