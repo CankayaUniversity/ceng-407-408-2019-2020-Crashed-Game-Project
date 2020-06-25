@@ -3,13 +3,10 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 
 #### Current Versions;
 
-#### Crashed™ Beta v0.1
-#### Crashed™ Beta v0.2 | Hold on Tight! :) Coming Soon...
-
-#### PLAY Beta Version (Windows 7 and Above) -> [Download Game](https://drive.google.com/open?id=1CvJZsg_lb7iLhc8i3A-Swft5cFjbzb3F)
+#### Play the Game  (Windows 7 and Above) -> [Download Game](https://drive.google.com/file/d/1bDlqTDeDQaHALdJPGu1PyQO0S_3qowAi/view?usp=sharing)
 #### DOWNLOAD All Source Files -> [Download Files](https://drive.google.com/file/d/1bDlqTDeDQaHALdJPGu1PyQO0S_3qowAi/view?usp=sharing)
 
-#### Crashed™ Beta Version 0.5 | What's New in this version;
+#### Crashed™ v0.5 Fifth Release | What's New in this version;
 -> Added Singleplayer Menu<br>
 -> Added Multiplayer Menu<br>
 -> Added Pause/Resume Feature<br>
@@ -19,7 +16,7 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 -> Added Car and Color Select<br>
 -> Added Multiplayer GameController with Keyboard<br>
 -> Added Very Basic Car Movement Support (Multiplayer/Singleplayer)<br>
-#### Crashed™ Beta Version 0.2 | What's New in this version;
+
 
 
 ### -> Future Work Plan & ToDo
