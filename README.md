@@ -7,7 +7,7 @@ Crashed™ is a single and multiplayer, car combat (vehicular combat) game devel
 #### DOWNLOAD All Source Files -> [Download Files](https://drive.google.com/file/d/1bDlqTDeDQaHALdJPGu1PyQO0S_3qowAi/view?usp=sharing)
 
 #### Crashed™ v0.5 Fifth Release | What's New in this version;
--> Added Better Nitro System
+-> Added Better Nitro System\n
 -> Added Nitro Effects
 -> Fixed Nitro Effects Structure (Doubled)
 
